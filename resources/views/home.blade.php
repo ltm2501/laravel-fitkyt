@@ -33,6 +33,8 @@
             <img src="https://cdn.shopify.com/s/files/1/0330/0347/0979/products/blackband3_135d7883-4fba-4df4-b7f3-a0d31d17aa25_540x.png?v=1598226907" class="rounded w-75">
         </div>
     </div>
- </div>
+   <div class="pt-5" >
+        <example-component></example-component>
+   </div>
 </div>
 @endsection
